@@ -1,0 +1,6 @@
+{
+  "name": "TrustPulse - B2B Reputation Management",
+  "description": "High-ticket B2B reputation management agency website with interactive Google Maps 3-Pack simulation, automated review funnel demo, ROI calculator, and free audit generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
